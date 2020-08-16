@@ -1,0 +1,216 @@
+
+SIDDHARTHA THOMAS
+"Siddhartha is an industry research professional with areas of interest…
+READ NEXT
+
+Dtale Tutorial – Guide To Visualize Pandas Data Structure
+Analytics India Magazine (AIM) along with Jigsaw Academy, has developed this study to focus on the impact on jobs across certain emerging technologies.
+Jigsaw Academy, with over 400 years of combined teaching experience, including online and remote learning delivery, is adept at training and upskilling professionals and freshers in key capabilities in emerging technologies like business analytics, data science, artificial intelligence, deep learning, cybersecurity, full stack development, and cloud computing, to name but a few.
+Overview of Emerging Technologies
+The broad Information Technology domain experienced significant growth and consolidation in 2019-2020. At the beginning of this year, various studies conducted by Analytics India Magazine indicated that the IT domain in general, and the specific domains of Artificial Intelligence, Deep Learning, Data Analytics, Machine Learning, and Cyber Security domains, to name a few, were experiencing significant growth in terms of revenues, investments, and salaries.
+
+
+
+Despite the lockdown and recessionary trends, specific domains and technologies across the IT space continue to develop at a steady space. These technologies cover the spectrum of the following IT functions and areas:
+* Data Analytics
+* Cloud Computing
+* Cybersecurity
+* Artificial Intelligence
+* Deep Learning
+* Machine Learning
+* IoT
+* Blockchain.
+The Covid pandemic has unfortunately affected the broader global and Indian economies – economic activity across the globe has slowed down after a strict lockdown in activity across all major economies. One of the other impacts of the disruption, due to the unfortunate recession and pandemic, is that there has been a shift of jobs and roles to Tier 2 and Tier 3 cities. Before the lockdown, a small percentage of job roles (~3-4%) were advertised for the Tier 2 and Tier 3 cities – locations outside the IT, Technology, and BPO hubs.
+There has now been a significant shift to an average of about 8% of the jobs advertised in tier 2 and Tier 3 cities. This highlights that jobs are now increasingly becoming location independent and now advertised across several locations, including small cities and large towns.
+Another impact of the recession has been the emergence of Cybersecurity and Cloud Computing as the domains of resilience in terms of jobs and salaries.
+Emerging Technologies Job Roles by Location
+PIN IT
+PIN ITThe almost immediate impact of the Covid-19 pandemic has been the change in the way of working. This has directly impacted the locations of new jobs – there has been a significant shift in advertised jobs to Tier 2 and 3 cities – 8.1%. The reason for this is that most of the technology-related jobs are location independent and have been advertised for the Tier 2 / Tier 3 cities – this is a significant jump from the pre-Covid-19 levels of 3-4% of jobs in Tier 2 and Tier 3 cities.
+Moreover, when the cities of Kolkata and Ahmedabad are included, the proportion of jobs advertised across the Smaller Metros / Tier 2 / Tier 3 cities category is 14.5%.
+This is a significant proportion of the total number of jobs advertised across all cities, highlighting the shift caused by the lockdown.
+
+PIN ITSection 1: Brief State of Emerging Technologies Before the Onset of the Pandemic
+Prior to the onset of the pandemic and the subsequent recessionary environment, the emerging technologies were experiencing significant growth in terms of jobs roles, hiring, and salaries.
+The $762 Mn investment in Indian AI and analytics start-ups, the increase of median salaries to INR 14.4 Lakhs for analytics professionals at the start of 2020, the state of the broad analytics and data science domain in 2019-2020, and the consolidation in the Cybersecurity market and segment, are all evidence of the growth of the Information Technology sector in India over the last year specifically.
+The consolidated growth of these technologies, in terms of adoption, investments, new research and development, and job growth was close to 12% CAGR at the beginning of the calendar year 2020.
+The current recessionary environment faced by global economies, in general, and the Indian economy, in particular, has affected the operations and jobs/hiring scenarios of the Indian IT segment. Although the broad Indian IT sector has been adversely impacted by the recession, the resilience of the IT sector, and the value afforded by this sector as a whole, has lessened the impact of the recessionary environment across the technology domains and functions, including the emerging technologies.
+The least impact in terms of open jobs has been on the Machine Learning domain, in which the contraction has been 8%.
+
+Section 2: Impact of the Pandemic on Open Jobs across Emerging Technologies
+PIN IT
+PIN ITThe study of open jobs across emerging technologies has revealed that there has been a contraction of open jobs across the spectrum as a result of the pandemic.
+The contraction in open jobs post-Covid should not be considered negative by job seekers. The contraction only indicates that the number of open jobs advertised has gone down. There is still a substantial demand for skills and talent across the emerging technologies domains.
+The contraction of jobs advertised has been the largest for roles related to Internet of Things (IoT) at 15.8%. IoT has applications across many sectors and industries. But most of the applications of IoT are in the sectors of Energy, Automobile, Engineering, and Industrial Manufacturing, wherein IoT is applied across machinery, plants, industrial devices, hi-tech engineering equipment, and logistics services.
+These sectors and functions saw a complete shutdown in March 2020 once the lockdown was implemented. Moreover, even after about a month of the lifting of the lockdown, in June 2020, production across these sectors was about 55% of pre-lockdown levels, entering the recessionary territory.
+The outlook of these sectors too is not very promising, with demand and production expected to reach pre-lockdown levels only by the end of 2020 or the beginning of 2021. Hence, the requirement for jobs in IoT has fallen the most by 15.8%. While this figure is the largest for emerging technologies, it is still lower than the figure of open jobs across the broader IT space, in which the contraction of open jobs has been close to 18%. 
+IoT is followed by Artificial Intelligence (AI), in which the contraction of advertised open jobs is 13.4%. Artificial Intelligence is a function driven by specific needs across industries and organizations. While AI as a domain or a function is steadily adopted across enterprises, from IT to Hi-tech firms, and from eCommerce to Energy, AI is still in a very unique and niche function that services certain scenarios and high-end technology, niche AI startups, and engineering firms, among others, adopt to develop products and services. Hence, with the lockdown and the resulting recessionary environment, the open jobs advertised across AI have contracted by 13.4%.
+AI is followed by Cloud computing, wherein the contraction of open jobs advertised has been 12.5%. Cloud Computing is a sought-after function – during and after the lockdown a greater proportion of transactions has been carried out online and digitally. Moreover, work-from-home has become a consistent workplace phenomenon. Although many companies have had to move their business and operations to the online and digital modes, the slowdown in businesses across industries and lower growth outlook has resulted in a contraction in the jobs across Cloud Computing.
+Moreover, over the last couple of years, Cloud Computing has seen significant growth in terms of roles and functions, and investments and revenues. Hence, this contraction, although at a level of 12.5%, should be seen as a brief pause after the exceptional growth the function has experienced over the last couple of years.
+Job seekers in this function should not consider this contraction as a discouraging sign, as cloud service providers, such as Microsoft, AWS, and Google Cloud Platform (GCP) have all indicated that demand for their services has seen a steady growth even during the lockdown period across most geographies and industries.
+The open jobs in Deep Learning have contracted by 11.4%. The contraction has not been very severe as Deep Learning is a function adopted by very focused technology, semi-conductor, electronics, engineering, healthcare, and IT firms. Firms such as Microsoft, Apple, Intel, Qualcomm, Phillips Healthcare, Siemens, TCS, and Infosys, among others are all investing in Deep Learning to develop solutions across AI and Computer Vision, to name a few areas. Hence, while there has been a contraction in advertised jobs, there are organizations that continue to hire talent across this function.
+Deep Learning is followedby Data Analytics, in which the contraction of jobs has been 10.7%. Data is now generated in every business process regardless of industry and type of operations. Analysis of this data now takes place regardless of economic environment.
+Moreover, in a downturn analysis of data and gaining insights from this data is all the more important for organizations looking to develop new business models and products in times of lower economic activity. Hence, although there has been a contraction in Data Analytics open jobs, this contraction is expected to last for another quarter or so.
+The Data Analytics function is followed by Blockchain – where the contraction of open jobs has been 9.7%. Although there has been a lot volatility in the Blockchain domain in terms of valuation of key Blockchain trading instruments, Blockchain is seen as a long-term game changer across many processes and industries.
+Moreover, with the recessionary environment taking a grip on the execution of processes across industries, a paradigm change in business is evolving across economies, and alternative methods of transactions and executions are now being sought by enterprises and governments alike. Hence, the contraction in advertised jobs for Blockchain has not been very large.
+The Cybersecurity domain within the Emerging Technologies space has one of the lowest contractions, second only to Machine Learning, in open jobs. As a greater number of transactions are carried out over the online and digital mediums, there is a greater need to secure networks and data. Hence, this domain has seen a relatively lower fall in open jobs at 8.7%.
+Machine Learning (ML), as a job role or function across all emerging technologies, has seen the least contraction in open jobs (at 8%) since the lockdown. This is apparent and straightforward because of the increasing shift to automation across business processes. This shift includes Robotic Process Automation for Customer Service, Service Automation for Billing and other Operational processes, Recommendation Engines for Online Shopping and Video Streaming, among others.
+Although this shift began many months before the lockdown, the lockdown and the change in habits of consumers and processes in organizations, has accelerated the adoption of Machine Learning. Hence, here again, the contraction in jobs even during the lockdown and the ensuing recessionary environment should be viewed as a pause by job seekers and incumbent professionals, and not as a sudden drop in demand for ML services.
+Overall the drop in demand in jobs across emerging technologies is not very startling.
+Professionals and job seekers should focus on reskilling and identifying industries and organizations where opportunities exist.
+PIN ITOpen Jobs Distribution by Skill / Roles across Emerging Technologies
+PIN IT
+This section covers the findings of the proportion of open jobs by skill and role types. Open jobs in Data Analytics have the highest proportion at 33.7%. This is followed by jobs in Machine Learning at 20.4%. Cybersecurity open jobs constitute 15.6% of the emerging technologies open jobs pool. These trends are more or less in line with estimations of experts and hiring managers that AIMResearch has reached out.
+While Data Analytics was the largest constituent of open jobs even before the lockdown, analysis of data continues to be a requirement across industries and services during and after the lockdown. Data is now generated in every transaction across B2B and B2C segments. Even in a recession there are requirements to analyze this data, and hence open jobs in data analytics constitute the largest proportion of jobs across emerging technologies
+Machine Learning jobs constitute 20.4% of the open jobs across emerging technologies. This is so because of the transition of data analysis and processes to automated platforms and tools. In India, this transition started 3-4 years ago, and now, across all sectors and functions, automation is a key operational process that reduces redundancies. Even in times of recessions, Machine Learning requirements are emerging across enterprises and job roles are correspondingly being advertised.
+Cybersecurity roles constitute 15.6% of the emerging technologies market. As a greater number of transactions are now carried out over digital and online platforms, and with greater data now shared over networks, enterprises now seek security professionals to safeguard the transactions and the data. Here again, Cybersecurity roles and requirements emerge at a significant proportion of the entire emerging technologies job segment.
+The remainder of the open jobs has lower proportions of the entire open jobs pool, signifying the exclusive requirements across sectors and enterprises for these roles and skills. Artificial Intelligence, Deep Learning has slightly similar proportions at 7.7% and 6.6%. While the Internet of Things and Blockchain have proportions of 3.6% and 2.1%.
+
+Section 3: Salaries Across Emerging Technologies Roles
+Salaries offered for open jobs cover: Salaries of Personnel in Emerging Technologies RolesPIN IT:
+* Salaries Advertised for Open Jobs in Emerging Technologies
+* Salaries of Personnel in Emerging Technologies Roles
+Salaries of Personnel in Emerging Technologies Roles
+PIN IT
+The Median Salaries offered to personnel in Emerging Technologies reveal that the salaries of AI personnel are the highest at INR 14.7 Lakhs. This is logical given that AI – Artificial Intelligence – is a niche segment with high salaries offered most levels and industries.
+This is followed by Blockchain – wherein the median salary is 14.1 Lakhs. This is consistent with the salaries of Blockchain roles offered typically by Consulting and IT and ITES firms. Moreover, in terms of type of technology, although Blockchain is in the nascent stages of development, it is a fast-evolving industry, with enterprises seeking to develop standards and methodologies across services provided. Hence, the salaries of personnel in this segment is high.
+This is followed by Machine Learning, wherein the median salary is 13.6 Lakhs. Machine Learning is increasingly adopted across sectors and functions to automate processes and services. Similarly, the median salary for Deep Learning personnel is at 13.6 Lakhs.
+These 2 segments are followed by the Internet of Things or IoT Median salary at 13.3 Lakhs and Data Analytics Median salary at Rs. 13.2 Lakhs. The median salaries for IoT and Data analytics have both slightly reduced since the start of the year. The salaries for these 2 segments were classified under the Analytics median salary research, which AIM carried out in early 2020, was an average 14.4 Lakhs. This approximate 8% drop in salaries is on account of the salaries of personnel in many enterprises having been temporarily reduced to counter the drop in operations and services.
+The broad Cloud Computing function has a Median Salary of 12.8 Lakhs. The Cloud computing function has in fact seen a rise in salaries since the start of 2020.
+Finally, for personnel within the Cybersecurity function, the Median Salary offered are 11.7 Lakhs. Salaries across this function have increased from 11.4 Lakhs since the beginning of the year. This is logical considering the shift to online and digital operations for many firms and online and mobile transactions carried out in the economy.
+PIN ITChange in Salaries Across Emerging Technologies
+PIN IT
+The fall in salaries across emerging technologies from before the lockdown to after has not been substantial, indicating the continued demand for services from clients and customers across these emerging technologies.
+The salaries for Cloud Computing and Cyber Security have in fact increased from just before the onset of the pandemic till now by 1.6% and 1.9% respectively. The fall in salaries has been greatest for Artificial Intelligence and Data Analytics at 5.2% and 4.9% respectively, signifying the fall in salaries for the emerging technologies that demand relatively higher salaries.
+Salaries Advertised for Emerging Technologies Open Jobs
+PIN IT
+The salaries advertised for open jobs across Emerging Technologies reveals that the Median salary advertised for Artificial Intelligence open jobs is the highest at INR 12.1 Lakhs.
+This is followed by the median salaries for Cloud Computing jobs at 12 Lakhs.
+Median salaries advertised for Machine Learning and Blockchain open jobs are both at 10.6 Lakhs. Advertised median salaries for IoT are next on the list at 10.5 Lakhs. This is followed by median salaries advertised for Deep Learning and Cybersecurity open jobs, wherein the median salaries advertised are 10.4 and 10.3 Lakhs respectively. Finally, across emerging technologies roles the advertised median salaries for Data Analytics are 9.9 Lakhs.
+The median salaries advertised for open jobs tend to be lower than the actual median salaries drawn by professionals.  
+
+Section 4: Opportunities for Skill Development across Emerging Technologies
+The opportunities for skill development are determined by studying the distribution of open jobs across the following categories:
+* Distribution of Open Jobs by Salary Brackets
+* Distribution of Open Jobs by Experience Level
+* Distribution of Open Jobs by Industry
+For each of the Emerging Technologies, the opportunities have been identified on the basis of the current state of Open Jobs in terms of Salary Distribution, Experience Levels, and Distribution by Industry.
+Internet of Things
+PIN IT
+For IoT, the proportion of open jobs is the highest for salaries advertised in the 6-10 Lakhs bracket – at 29%. This is followed by the open jobs advertised in the 3-6 Lakhs bracket – at 24.2%, and thereafter the open jobs advertised in the salary bracket of 10-15 Lakhs proportion at 20.9%.
+By experience, the maximum concentration of open jobs is at the lower experience levels of 2-5 years and 1-2 years at 36.5% and 33.8% respectively. This skewness towards the jobs for lower experience levels is indicative of the nascent stage of development of the IoT industry in India.
+In terms of industry, while the bulk of the jobs are advertised by the IT / ITES sector, there is a significant proportion of jobs that are advertised by the eCommerce sector (21.8%) and the Industrials / Automotive sector (5.2%).
+Moreover, going forward as the industry develops, there would be significant opportunities in the higher experience and salary levels in IoT. This provides an opportunity for personnel with skills in eCommerce, Manufacturing & Automotive industries to develop skills in Analytics and Data Science that would complement their industry and functional expertise – thereby enabling these personnel to become IoT cross-skill experts in the near future.
+Cloud Computing
+PIN IT
+For Cloud Computing, the proportion of open jobs advertised is the highest for salaries in the 6-10 Lakhs range at 27.6%. This is followed by open jobs in the 10-15 Lakhs range at 23.1%. The greater proportion of jobs advertised in the higher salary levels signifies the importance of Cloud Computing across industries and enterprises, and the demand for personnel in the higher income brackets as companies shift their operations to the digital and online mediums and move more of their data to the cloud.
+The 19% proportion of open jobs advertised in the 15-25 Lakhs salary bracket signifies this emerging trend and demand for Cloud Computing services.
+In terms of experience level, the greatest proportion of open jobs has been advertised in the experience level of 5-7 at 20.6%. This is followed by the jobs advertised in the experience level of 7-10 years at 19.5%. This signifies that enterprises are seeking personnel with reasonable expertise in this function.
+This is consistent with the trends of demand, growth, and hiring across the Cloud Computing domain, especially when several enterprises are moving their operations to the Cloud. Moreover, the experience level open jobs curve is flatter, signifying the relatively even distribution of open jobs across experience levels – this further indicates the demand for roles across levels and capabilities.
+Cloud Computing thus provides ample opportunity across salary and experience levels as the demand continues to rise as the paradigm has shifted to remote working and online operations.
+Given the relatively equitable distribution of open jobs across experience levels, Cloud Computing affords the opportunity to personnel across the various skills and experience levels to enter this domain. Given the various cloud platforms utilized by organizations, including AWS, MS Azure, Google Cloud Platform, and Oracle Cloud, among others, personnel with skill in one cloud platform can cross-skill in other platforms, as more than one cloud platform is now the norm across many IT and Technology companies.
+Moreover, given the demand for cloud even at higher levels of experience and salaries, professionals with expertise in Virtualization or Server Technologies in a particular function or industry can upskill to one or more Cloud Technologies through a short program and specialize in Cloud Platforms in the industry of their expertise.   
+In terms of Industry as well, while the bulk of the jobs advertised are in IT and ITES sectors, the other sectors will afford opportunities. Going forward, the growth potential across the Semiconductor, BFSI, and eCommerce sectors would provide a tremendous opportunity for Cloud computing experts to switch industries from IT and ITES. Moreover, given that most of the operations are now online across BFSI, eCommerce, Telecom, and Digital sectors, Cloud Computing demand would grow, giving experts in these industries the opportunity to develop Cloud skills across the various platforms.
+Blockchain
+PIN IT
+For Blockchain, the proportion of open jobs advertised is the highest for salaries in the range 3-6 Lakhs at 29.8%. This is followed by open jobs advertised in the 6-10 Lakhs bracket and in the 10-15 bracket at 28.8% and 17.6% respectively.
+In terms of experience level, the greatest proportion of jobs advertised is in the 2-5 years’ experience level – 21.6%. Also, there are significant opportunities in Blockchain for personnel with various levels of experience. 6.8% of the jobs advertised are for recent graduates with less than 1 year of experience. Moreover, about 12% of the jobs advertised are for junior professionals with 1-2 years of experience. Similarly, for middle-level experienced professionals, there are significant opportunities as well.
+In terms of industry, while the greatest proportion of jobs has been advertised in the IT / ITES sector, the jobs advertised for the sectors of BFSI and Consulting are extremely significant at 8.1% and 5.9%.
+Blockchain is a new domain and hence it is more or less straightforward that the greatest proportion of roles are advertised for the mid-junior level of experience. Hence, in terms of salary, experience, and industry there are ample opportunities in Blockchain – especially in the BFSI and Strategy / Consulting sectors in the coming quarters and years. This opportunity would require domain-specific skills and programme management/leadership skills in the years to come in the Blockchain domain.
+Artificial Intelligence
+PIN IT
+For AI, the highest proportion of jobs advertised is in the salary bracket of 6-10 Lakhs at 28.9%. This is followed by the proportion of open jobs in the salary bracket of 10-15 Lakhs at 21.6 % and in the salary bracket of 3-6 Lakhs at 21.4%.
+The open jobs advertised for the AI domain reveals an equal distribution of jobs across the experience levels of 2-5 years, 5-7 years and 7-10 years at 21.6%, 21.6%, and 22.3% respectively. This equitable distribution of prospective hiring from the mid-junior to the mid-senior level indicates that companies in this domain are seeking to develop capabilities across numerous levels of expertise.
+This is indicative of the growth of the AI domain in recent years, covering such capabilities as Computer Vision, Robotics, and Natural Language Processing. Moreover, the entry-level categories also afford opportunities to freshers and junior-level professionals, with 5.8% of the jobs advertised for personnel with less than 1 year of experience and 6.8% of the jobs advertised for personnel with 1-2 years of experience.
+In terms of Industry, while the highest proportion of AI jobs advertised are in the IT and ITES sector, the jobs advertised across other industries and sectors indicates the opportunity that job seekers have to develop skills in these sectors and apply for a suitable opportunity as and when it arises. Moreover, the breadth of sectors covering BFSI, Pharma, eCommerce, and even the Government sector indicates the potential that AI offers in terms of jobs, not just within the IT and Digital sectors, but across sectors and even specializations, such as Computer Vision, NLP, and Robotics.
+SEE ALSO
+5 Jobs That GPT-3 Might Challenge
+Cybersecurity
+PIN IT
+For proportion of open jobs by salaries in Cybersecurity, the trends are similar to AI with the highest proportion advertised in the salary bracket of 6-10 Lakhs at 31.7%.
+The distribution of Cybersecurity jobs by experience reveals that the proportion of jobs is greater towards the middle level to the mid-senior level of experience, with the highest proportion of jobs in 7-10 experience bracket at 26%, followed by 5-7 years at 24% and 10-15 years at 20.1%.
+This skewness of open jobs towards the higher experience levels indicates the demand for Program Managers and Leaders in Cybersecurity and the relatively mature nature of this industry. Hence, it would be beneficial if Job seekers and professionals looking to prepare themselves for Leadership roles in Cybersecurity – this is a gap and opportunity that presents itself, as 5.8% of the jobs are advertised for jobs with experience level greater than 15 years.  
+In terms of Industry, the distribution of open jobs reveals that apart from the IT and ITES sector, there are significant opportunities in other sectors, such as BFSI, Semiconductors, Consulting and Telecom. Even the ecommerce industry presents a small, yet significant opportunity for cybersecurity personnel seeking jobs. This spread of opportunities across sectors is consistent with the trends in demand of Cybersecurity services after the shift to remote working and online operations.
+Machine Learning
+PIN IT
+In terms of Salary Distribution for Machine Learning jobs, the jobs advertised in 6-10 Lakhs salary bracket have the highest proportion at 28.7%.
+For experience levels, the highest proportion of jobs has been advertised in the 5-7 years’ level at 24.5%. The proportion of jobs advertised in the 7-10 years’ and 10-15 years’ experience level are 22.1% and 13.3% respectively. This signifies the maturing nature of the Machine Learning domain. Nonetheless, at the lower levels of experience, novice and junior professionals, and the upper levels of experience of leadership professionals, there are a small, yet significant number opportunities afforded by companies.
+Similarly, in terms of Industry, apart from the IT and ITES sector, the jobs advertised are relatively significant for the other sectors as well. For the Industrials & Automotive sector, the proportion of jobs is significant at 7.8%. Similarly, for BFSI the proportion of jobs is 7.2%, for Pharma at 5.1%, and eCommerce at 3.9%. These figures indicate the opportunities afforded by cross industry functions in Machine Learning.
+Machine Learning is continuously adopted by firms across industries to automate processes and systems and improve operational efficiencies. Hence, in the coming quarters and years, the industry-specific jobs in this domain would boom. Hence, for incumbents in a particular industry, a course or certification in Machine Learning would facilitate a shift to the ML function.
+Data Analytics
+PIN IT
+In terms of Salary Distribution for Data Analytics jobs, jobs advertised in 6-10 Lakhs salary bracket have the highest proportion at 28.2%.
+In terms of experience level required for the jobs advertised, the highest proportion is in the 5-7 years’ and 2-5 years’ experience levels at 22.5%. Moreover, for senior-level positions in the 10-15 years and more than 15 years category, the proportion of jobs are 15.7% and 6.5% respectively, highlighting the opportunities at these levels.
+Even for entry-level positions, enterprises have advertised jobs in proportion of 4.5% for freshers (less than 1 year of experience) and 7% for junior professionals with 1-2 years of experience. This signifies that across the spectrum of experience levels, there is ample opportunity for recent graduates and experienced professionals in the Data Analytics domain.
+In terms of industry, apart from the IT and ITES sectors, the data analytics function across industries, including BFSI, Pharma & Healthcare, Semiconductors & Electronics, Strategy & Consulting, and eCommerce to name a few, offers numerous opportunities.
+Data is omnipresent – with terabytes of data generated across industries and functions. To analyze this data, numerous opportunities continue to crop up for professionals across experience and professional levels.
+Deep Learning
+PIN IT
+In terms of Salary Distribution, the proportion of Deep Learning jobs is highest in the 6-10 Lakhs level at 28.3%. The open jobs advertised have the highest proportion in the mid-junior to middle experience levels, indicating the nature of this emerging technology –a shift from nascent to maturing. The proportion of open jobs advertised is the highest in 5-7 years level at 26.3%, and at 24.4% in 2-5 years’ experience level.
+Even the proportion of jobs in the higher experience levels of 7-10 years and 10-15 categories are significant at 20.2% and 14.1% respectively.
+In terms of industry, apart from the IT and ITES industry, the Deep Learning function is gaining prominence across the following industries – BFSI, Industrials & Automotive, eCommerce Semiconductors & Electronics, and Pharma & Healthcare offer numerous opportunities in Deep Learning.
+
+PIN ITSection 5: State of Job Roles/ Capabilities in the Current Environment
+PIN IT
+On the basis of the research carried out in the previous sections related to the Change in Salaries of Professionals and the Contraction of Open Jobs, AIMResearch has classified the roles and skills in 2 categories
+* Category I: Roles and Skills Negatively Impacted or Static in the Current Environment
+* Category II: In-demand & Need-of-the hour Skills Required in the Current Environment
+* On the basis of various factors, AIMResearch has calculated the stability of a role on the scale of 10
+Category I: Roles and Skills Negatively Impacted or Static in the Current Environment
+Roles and skills in Data Analytics negatively impacted have scores less than 5. Hence, the roles of Data Analytics and Artificial Intelligence, both with scores of less than 5, have been negatively impacted.
+Category II: In-demand & Stable Skills Required in the Current Environment
+Roles and skills that are need of the hour have scores greater than 6. These roles are Cybersecurity, Cloud Computing, Internet of Things, and Machine Learning, all with scores greater than 6.
+Stable roles have scores between 5 and 6, and these roles are in Deep Learning and Blockchain.
+
+Section 6: Sturdy and Secure Roles and Capabilities Across Emerging Technologies
+PIN IT
+The secure roles cover jobs that are unaffected by Market and Economic Disruptions. These roles have been identified on the basis of the demand across industries – these roles are emerging on the basis of the changing environment, automation of processes and services, and shift to digital and on-cloud services.
+Demand is expected to be the highest for Cloud Security, wherein the annual growth of jobs/roles over the next 5 years is expected to be 13%. This is followed by Cybersecurity Defensive – with annual job growth at 11.8%. Both these numbers reflect the changing dynamics of the transactions and operation. With greater companies moving operations from on-premise systems to the Cloud, the security of this data is of primary importance, and hence, the demand for Cloud Security professionals and jobs will be the highest.
+Similarly, with greater digital and online transactions carried out, enterprises will find a need to secure their networks and for that Cybersecurity, defensive will emerge as the 2nd most significant job/role in terms of demand.
+Cybersecurity offensive, wherein organizations track malicious IP addresses and shutdown the services of sites and servers engaging in illegal activities, will also a significant boost of demand in terms of jobs and roles at 10.3% CAGR.
+Another area associated with security and risk of end-to-end operations, data, and business continuity is Risk Analyst. This role will see jobs growth demand increase by 10.1% on an annual basis.
+Finally, with Machine to Machine communication becoming all the more significant and real-time analysis of equipment and production becoming significant, the IoT roles of IoT Engineer, IoT Architect, and IoT Analysts, will see a demand of 9.6%, 9.6%, and 8.1% respectively.
+
+Section 7: Emergence and Advantages of Online Learning in the Post-Pandemic Scenario
+While the recession is creating a lot of uncertainty in the emerging technologies job and salary markets, technology professionals should use this opportunity to boost their skills and capabilities. This would ensure that professionals are ready to take up broader or more challenging emerging technology roles as and when the opportunity presents itself by their organizations or superiors – even during the current environment of disruption during the Covid pandemic.
+Moreover, professionals could look at developing subject matter skills in specific industry-focused areas – especially across the IT, eCommerce or Semiconductor / Electronic domains. As seen across the industry demand, the eCommerce and Semiconductor sectors are fast emerging as the industries in which the demand for emerging technologies is increasing. This is understandable given that shopping is moving online and greater computing speed and more intelligent processors are now required for AI and ML capabilities.
+Similarly, as seen across the technology domains, Cloud Computing and Cybersecurity are fast emerging as the in-demand roles and skills, given that transactions are being carried out on online platforms and data is moving to the Cloud.
+Given the need to regularly upskill, it is important that professionals opt for Online Learning. Online programs are quick in terms of enrolment and skilling. Set-up times for online education is now minimal. Moreover, the learning can happen almost anywhere and at anytime.  
+Given the scenario to rapidly develop skills in any given area, online programs offer the agility that other formats may not provide. Finally, given the uncertainty regarding the lockdown and pandemic, online programs offer a sense of security in terms of health and well-being.  
+
+Conclusion
+At the beginning of the year, the IT domain in general, and the specific domains of Artificial Intelligence, Deep Learning, Data Analytics, Machine Learning, and Cyber Security domains, to name a few, were experiencing significant growth in terms of revenues, investments, and salaries.
+However, the unfortunate pandemic, and the resulting post-pandemic recessionary environment has affected the growth of jobs across numerous technologies and roles. Nonetheless, the demand for Emerging Technologies jobs and roles, however, has remained resilient.
+The shift to digital and non-contact payment operations has resulted in numerous job opportunities across the Emerging Technologies, in terms of industry, level of expertise, and also salaries offered for roles.   has resulted in the
+* In terms of jobs, the requirement for IoT roles and jobs has fallen the most by 15.8%. While the requirement for Machine Learning jobs has fallen the least at 8%.
+* In terms distribution of jobs across emerging technologies, Data Analytics continues to dominate, with a proportion of 33%, signifying the demand for analysis of data and that data is relevant regardless of economic condition.
+* In terms of salaries, professionals in the domain of AI have the highest median salary of 14.7 Lakhs, while professionals in the domain of Cybersecurity have the lowest relative salary at 11.6 Lakhs.
+* Significant opportunities for skill development exist across levels for all the emerging technologies.
+* IoT offers tremendous job opportunities in the eCommerce sector (as a proportion of jobs openings apart from IT / ITES sector)
+* Cloud Computing offers opportunities across all experience levels, with middle-level experience levels offering the most opportunities
+* Cybersecurity, a mature function, offers opportunities in the programme management and leadership levels.
+* Artificial Intelligence, a maturing function, offers opportunities across a wide range of sectors, including Government services.
+* The BFSI, Pharma & Healthcare, and Ecommerce industries offer significant opportunities (barring the IT and ITES sectors) across almost all domains of emerging Technologies
+* On the basis of the research done by AIMResearch, Cybersecurity has emerged at the top of the list of roles in demand in the need of the hour
+* Artificial Intelligence has emerged as the role most impacted (negatively) by the current environment
+* Overall over the next few years, Cybersecurity and Cloud Computing offer the most stability in terms of jobs and roles.
+
+Download the complete report
+Provide your comments below
+0 comments
+
+If you loved this story, do join our Telegram Community.
+
+Also, you can write for us and be one of the 500+ experts who have contributed stories at AIM. Share your nominations here.
+
+SIDDHARTHA THOMAS
+"Siddhartha is an industry research professional with areas of interest across the Digital Media,Traditional Media, and Technology sectors. Siddhartha studies and researches organizations and industries from the perspective of innovation, finance, and strategic management. He has extensive research and knowledge management experience across numerous large and small organizations."
+SHARE
+TWEET
+
+Biggest AI Acquisitions For The Year 2020, So Far
+PREVIOUS ARTICLE
+
+Dtale Tutorial – Guide To Visualize Pandas Data Structure
+NEXT ARTICLE
+RELATED POSTS
+
